@@ -1,7 +1,7 @@
 {  
-	"name": "heroku-teste",  
+	"name": "TensorFlos.JS-Webcam",  
 	"version": "1.0.0",  
-	"description": "Teste de deploy no Heroku",  
+	"description": "TensorFlow JS Heroku",  
 	"main": "index.js",  
 	"scripts": {    
 		"start": "node index.js"
