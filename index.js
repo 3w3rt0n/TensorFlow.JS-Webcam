@@ -1,5 +1,8 @@
 
-var http = require('http');
+const http = require('http');
+const tf = require('@tensorflow/tfjs');
+
+require('@tensorflow/tfjs-node');
 
 var server = http.createServer(function(request, response){
 	response.writeHead(200, {"Content-Type": "text/html"});
