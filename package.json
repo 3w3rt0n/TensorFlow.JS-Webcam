@@ -13,7 +13,7 @@
 	"dependencies": {
 		"lowdb": "^0.14.0",
     		"querystring": "^0.2.0"
-		"@tensorflow/tfjs-node"
+		"@tensorflow/tfjs-node": "^0.0.1"
 	},
 	"author": "3w3rt0n",  
 	"license": "MIT"
